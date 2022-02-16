@@ -9,7 +9,7 @@
     "modular",
     "productivity"
 ],
-  "repository": "https://github.com/Skyzu/skyzu-userbot",
+  "repository": "https://github.com/kenaja/skyzu-userbot",
   "telegram": "https://t.me/skyzu",
   "success_url": "https://t.me/skyzusupport",
   "stack": "container",
